@@ -1,0 +1,6 @@
+2026-05-01 20:57:35,008 - GobSOC Agent Starting...
+2026-05-01 20:57:36,018 - {"cpu_percent": 6.5, "ram_percent": 85.4, "disk_percent": 80.4, "net_status": {"Ethernet": {"is_up": true, "speed": 1000, "mtu": 1500}, "Loopback Pseudo-Interface 1": {"is_up": true, "speed": 1073, "mtu": 1500}}}
+2026-05-01 20:57:39,029 - {"cpu_percent": 6.7, "ram_percent": 85.4, "disk_percent": 80.4, "net_status": {"Ethernet": {"is_up": true, "speed": 1000, "mtu": 1500}, "Loopback Pseudo-Interface 1": {"is_up": true, "speed": 1073, "mtu": 1500}}}
+2026-05-01 20:57:42,040 - {"cpu_percent": 15.4, "ram_percent": 85.2, "disk_percent": 80.4, "net_status": {"Ethernet": {"is_up": true, "speed": 1000, "mtu": 1500}, "Loopback Pseudo-Interface 1": {"is_up": true, "speed": 1073, "mtu": 1500}}}
+2026-05-01 20:57:45,062 - {"cpu_percent": 6.5, "ram_percent": 85.2, "disk_percent": 80.4, "net_status": {"Ethernet": {"is_up": true, "speed": 1000, "mtu": 1500}, "Loopback Pseudo-Interface 1": {"is_up": true, "speed": 1073, "mtu": 1500}}}
+2026-05-01 20:57:46,304 - GobSOC Agent stopped cleanly.
